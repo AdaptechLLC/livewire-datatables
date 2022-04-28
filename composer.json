@@ -19,7 +19,7 @@
         }
     ],
     "require": {
-        "php": "^7.3|^8.1",
+        "php": "^7.3|^8.0.2",
         "illuminate/cache": "^v9.0.0",
         "illuminate/contracts": "^v9.0.0",
         "illuminate/database": "^v9.0.0",
