@@ -19,12 +19,12 @@
         }
     ],
     "require": {
-        "php": "^7.3|^8.0",
-        "illuminate/cache": "^8.0",
-        "illuminate/contracts": "^8.0",
-        "illuminate/database": "^8.0",
-        "illuminate/support": "^8.0",
-        "livewire/livewire": "^2.6.7"
+        "php": "^7.3|^8.1",
+        "illuminate/cache": "^v9.0.0",
+        "illuminate/contracts": "^v9.0.0",
+        "illuminate/database": "^v9.0.0",
+        "illuminate/support": "^v9.0.0",
+        "livewire/livewire": "^v2.10.5"
     },
     "require-dev": {
         "brianium/paratest": "^6.2",
